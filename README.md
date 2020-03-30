@@ -1,4 +1,4 @@
-#Vagas
+Vagas
 
 Este é o nosso espaço dedicado à divulgação de vagas. São bem vindas vagas de estágio, trainee, emprego, freelance, temporários, abrangendo a todas as localidades e todas as áreas de TI.
 
