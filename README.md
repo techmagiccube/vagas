@@ -2,24 +2,25 @@
 
 Este é o nosso espaço dedicado à divulgação de vagas. São bem vindas vagas de estágio, trainee, emprego, freelance, temporários, abrangendo a todas as localidades e todas as áreas de TI.
 
-- Como funciona?
-As vagas ficam disponíveis nas issues. Para concorrer, verifique se as exigências da vaga estão de acordo com o seu perfil e se atendem também às suas expectativas. Cada empresa possui seu método de seleção. Então, atente para este fato e siga as recomendações descritas na vaga. Para divulgar, abra uma issue com o título no seguinte formato:
+### Como funciona?
+
+As vagas ficam disponíveis nas issues. Para concorrer, verifique se as exigências da vaga estão de acordo com o seu perfil e se atendem também às suas expectativas. Cada empresa possui seu método de seleção. Então, atente para este fato e siga as recomendações descritas na vaga. 
+
+Para divulgar, abra uma issue com o título no seguinte formato:
 
 [CIDADE-UF] FUNÇÃO NÍVEL na/no/em [EMPRESA]
 
 - Exemplo:
 
-´´´sh
 [Petrópolis - RJ] - Desenvolvedora Back-End Pleno na Netflix
-´´´
 
-# A descrição da vaga deve estar neste formato: 
+### A descrição da vaga deve estar neste formato: 
 
 - Se a vaga já foi preenchida, feche a issue. Isso evita que você receba currículos desnecessariamente.
 
 - Todas as vagas passarão pelo filtro de VAGAS ARROMBADAS! Estamos bem atentas a projetos e empresas que se aproveitam dos profissionais ou que não têm práticas dentro dos limites éticos.
 
-# Informações importantes para candidatura
+### Informações importantes para candidatura
 
 - Se não está interessada, não mande currículo
 
