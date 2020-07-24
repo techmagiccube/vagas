@@ -26,10 +26,10 @@ Para divulgar, abra uma issue com o título no seguinte formato:
 
 - Se acontecer qualquer imprevisto durante o processo, entre em contato com o contato da vaga imediatamente.
 
-- Tenha certeza de que está aderente ao foco principal da vaga. Qualquer insegurança, procure a qualquer mina do grupo para uma mentoria. Nós vamos te ajudar.
+- Tenha certeza de que está aderente ao foco principal da vaga, qualquer insegurança, procure a qualquer mina do grupo para uma mentoria, nós vamos te ajudar
 
-- As vagas serão divulgadas também nos nossos grupos de WhatsApp e Telegram.
+- As vagas serão divulgadas também nos nossos grupos de WhatsApp e Telegram
 
-- Se conhece outra mina que está ok para determinada vaga, inclua-a nos grupos.
+- Se conhece outra mina que está ok para determinada vaga, inclua-a nos grupos
 
-- A mais importante: Você é melhor e mais capaz do que pensa! Pode contar com a gente!
+- A mais importante: Você é melhor e mais capaz do que pensa, pode contar com a gente!
