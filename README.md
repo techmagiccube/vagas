@@ -1,6 +1,6 @@
-# Vagas
+# Tech Magic Cube - Divulgação de Vagas
 
-Este é o nosso espaço dedicado à divulgação de vagas. São bem vindas vagas de estágio, trainee, emprego, freelance, temporários, abrangendo a todas as localidades e todas as áreas de TI.
+Este é o nosso espaço dedicado à divulgação de vagas. São bem vindes vagas de estágio, trainee, emprego, freelance, temporários, abrangendo a todas as localidades e todas as áreas de TI.
 
 ### Como funciona?
 
